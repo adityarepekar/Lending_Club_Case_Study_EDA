@@ -20,13 +20,14 @@ The main objective of this Case Study is to understand and analyse the driving f
 
 Approach Followed:
 
-*Business Understanding & Data Exploration
-*Data Cleaning (Removing null columns, unique values)
-*Deriving columns and binning data
-*Removing Outliers
-*Perform Univariate Analysis
-*Perform Bivariate Analysis
-*Recommendations
+1.	Business Understanding & Data Exploration
+2.	Data Cleaning (Removing null columns, unique values)
+3.	Deriving columns and binning data
+4.	Removing Outliers
+5.	Perform Univariate Analysis
+6.	Perform Bivariate Analysis
+7.	Recommendations
+
 
 
 
